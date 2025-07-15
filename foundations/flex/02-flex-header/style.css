@@ -21,13 +21,6 @@ ul {
   padding: 0px;
   margin: 12px;
   gap: 12px;
-}
-
-.left-links ul {
-  display: flex;
-}
-
-.right-links ul {
   display: flex;
 }
 
